@@ -8,8 +8,15 @@ Worked in Onshape to continue initial 3D model of bike light enclosure to house 
 
 Conversation with Chris Suter and next steps...
 Chris and I looked at the initial design and talked through a few of the design challenges that I run across while thinking through the first prototype.
-#### Challenge 1: The Battery booster board has a place to plug in a USB-micro charger, but it will be difficult to place that plug flush against the side of the inside of the round enclouse and also difficult to mount it with the screw holes.
+#### Challenge 1: The Battery booster board placement.
+The battery booster board has a place to plug in a USB-micro charger, but it will be difficult to place that plug flush against the side of the inside of the round enclouse and also difficult to mount it with the screw holes.
 Potential solution: Use a USB-micro extension cable [like this](https://www.amazon.com/YCS-Basics-Cellphone-Charging-Extension/dp/B00B5HSC20) to allow the battery booster board to be more centrally located inside the enclouse and then I can route the USB-C extension plug right up to the hole in the side of the enclosure.
+
+![Section view](https://github.com/jeffellenbogen/BikeLight/blob/main/images/section_view1.png)
+
+#### Challenge 2: Accessing inside of enclosure to mount and hook up components.
+There needs to be a way to get inside the enclosure on the back of the side where the LED PCB will be attached. My plan is to split the back of the enclosure into two parts that fit together, thus allowing the enclosure to be opened to mount parts and troubleshoot any issues. In the current design, the very back of the narrowest part of the enclosure is left open with an opposing part that fits inside. Chris and I have talked through using screws to hold the two part together, but in looking in this initial design, there will be very limit access to the inside through this hole because it is so narrow. 
+Potential solution: I can move the place where the enclosure is split much farther forward toward the back of the LED PCB, thus giving a much larger hole for accessing and installing the components.
 
 
 ### 08-18-2021
