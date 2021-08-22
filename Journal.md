@@ -8,7 +8,7 @@ Worked in Onshape to continue initial 3D model of bike light enclosure to house 
 
 Conversation with Chris Suter and next steps...
 Chris and I looked at the initial design and talked through a few of the design challenges that I run across while thinking through the first prototype.
-Challenge 1: The Battery booster board has a place to plug in a USB-micro charger, but it will be difficult to place that plug flush against the side of the inside of the round enclouse and also difficult to mount it with the screw holes.
+#### Challenge 1: The Battery booster board has a place to plug in a USB-micro charger, but it will be difficult to place that plug flush against the side of the inside of the round enclouse and also difficult to mount it with the screw holes.
 Potential solution: Use a USB-micro extension cable [like this](https://www.amazon.com/YCS-Basics-Cellphone-Charging-Extension/dp/B00B5HSC20) to allow the battery booster board to be more centrally located inside the enclouse and then I can route the USB-C extension plug right up to the hole in the side of the enclosure.
 
 
