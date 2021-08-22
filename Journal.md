@@ -18,6 +18,13 @@ Potential solution: Use a USB-micro extension cable [like this](https://www.amaz
 There needs to be a way to get inside the enclosure on the back of the side where the LED PCB will be attached. My plan is to split the back of the enclosure into two parts that fit together, thus allowing the enclosure to be opened to mount parts and troubleshoot any issues. In the current design, the very back of the narrowest part of the enclosure is left open with an opposing part that fits inside. Chris and I have talked through using screws to hold the two part together, but in looking in this initial design, there will be very limit access to the inside through this hole because it is so narrow. 
 Potential solution: I can move the place where the enclosure is split much farther forward toward the back of the LED PCB, thus giving a much larger hole for accessing and installing the components.
 
+#### Next steps...
+I plan to implement both of these potential solutions in the next design. I am going to take a different approach and make the main enclosure in one piece. Then I will use a plane to split the enclosure somewhere just behind the backside of where LED PCB is mounted. This should be flexible in that I can move the plane to adjust where the part is spliced into two pieces.
+
+Then I will begin working on a way to connect the back piece to the bike handle bars.
+
+#### Additional thoughts / goal
+I was originally hoping to design the main enclosure to be milled out of wood on the CNC. I decided it would be better to prototype for 3D printing and then eventually shift to a milled wooden version. The benefit of the adjustment to the place the enclosure is split is I can make it so there are no internal overhangs and hopefully allow the parts to be milled down the road, hopefully without significant redesign...
 
 ### 08-18-2021
 Started documenting the bike headlight project.
