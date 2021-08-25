@@ -5,3 +5,5 @@ The goal of this project is to design a light to increase visibilty of a bicycle
 Quick Links:
 * [Project Proposal](https://github.com/jeffellenbogen/BikeLight/blob/main/Project%20Proposal.md)
 * [Journal](https://github.com/jeffellenbogen/BikeLight/wiki/Home---Project-Journal)
+* [Block Diagram](https://github.com/jeffellenbogen/BikeLight/blob/main/Block%20Diagram.md)
+
