@@ -1,2 +1,2 @@
 Here is the block diagram the electronic components for the project as prototypes so far...
-![Block Diagram](https://github.com/jeffellenbogen/BikeLight/blob/main/images/BikeLightBlockDesign.png)
+![Block Diagram](https://github.com/jeffellenbogen/BikeLight/blob/main/images/BikeLightBlockDesign2.png)
